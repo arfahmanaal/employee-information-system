@@ -8,13 +8,13 @@ The employee information system is basically a employee management system that a
 ## View deployed page
 
 
-To run the project in the web browser click the following link : 
+To run the project in the web browser visit the following link : 
 ```
 https://cool-scone-eff985.netlify.app/
 ```
 
 
-## Screenshots
+## Screenshot
 
 ![image](https://github.com/user-attachments/assets/b5a64a90-4a8f-4840-94cd-1ea8316812cd)
 
