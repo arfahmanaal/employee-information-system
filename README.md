@@ -2,7 +2,7 @@
 # Employee Information System
 
 
-The employee information system is basically a employee management system that allows us to add new employees, view existing employee data, edit employee data and delete the employee. It leverages Bootstrap 5 for layout, styling, and responsiveness.
+The employee information system is basically a employee management system that allows us to add new employees, view existing employee data, edit employee data and delete the employee. It leverages Bootstrap5 for layout, styling, and responsiveness.
 
 
 ## View deployed page
